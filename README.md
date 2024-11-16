@@ -1,1 +1,1 @@
-# garamchai
+GarmanChai is a dynamic meetup platform built using Django that allows users to create, join, and manage events based on shared interests. The site supports a variety of features such as user authentication, event creation, real-time event updates, and an intuitive interface for easy navigation.
